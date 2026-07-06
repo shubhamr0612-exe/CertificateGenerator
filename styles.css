@@ -39,7 +39,7 @@
   .panel-logo{width:100px; height:100px; margin-left:0; object-fit:contain;}
   .dot{width:9px; height:9px; border-radius:50%; display:inline-block;}
   .dot.red{background:var(--red);} .dot.amber{background:#ffb020;} .dot.green{background:var(--green);}
-  .panel-title{font-family:var(--mono); font-size:45px; color:var(--text-dim); margin-left:2px;}
+  .panel-title{font-family:var(--mono); font-size:40px; color:var(--text-dim); margin-left:2px;}
 
   .card-body{padding:26px 24px 28px;}
   .eyebrow{font-family:var(--mono); color:var(--cyan); letter-spacing:2px; font-size:11.5px; margin-bottom:10px;}
