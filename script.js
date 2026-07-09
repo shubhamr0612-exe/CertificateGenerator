@@ -46,7 +46,7 @@ const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyDUrFAGmDpWt
    ===================================================================== */
 const CERTIFICATE_IMAGE_PATH = 'certificate.png';
 
-const NAME_CONFIG   = { xPercent: 50, yPercent: 53, fontSize: 30, font: 'helvetica', style: 'bold', color: [81, 52, 8], align: 'center' };
+const NAME_CONFIG   = { xPercent: 50, yPercent: 45, fontSize: 30, font: 'helvetica', style: 'bold', color: [81, 52, 8], align: 'center' };
 const SHOW_DATE      = false;
 const DATE_CONFIG   = { xPercent: 22, yPercent: 88, fontSize: 11, font: 'courier', style: 'normal', color: [220, 230, 240], align: 'center' };
 const SHOW_CERT_ID   = true;
