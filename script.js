@@ -46,11 +46,11 @@ const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyDUrFAGmDpWt
    ===================================================================== */
 const CERTIFICATE_IMAGE_PATH = 'certificate.png';
 
-const NAME_CONFIG   = { xPercent: 50, yPercent: 45, fontSize: 30, font: 'helvetica', style: 'bold', color: [81, 52, 8], align: 'center' };
+const NAME_CONFIG   = { xPercent: 20, yPercent: 40, fontSize: 30, font: 'helvetica', style: 'bold', color: [81, 52, 8], align: 'center' };
 const SHOW_DATE      = false;
 const DATE_CONFIG   = { xPercent: 22, yPercent: 88, fontSize: 11, font: 'courier', style: 'normal', color: [220, 230, 240], align: 'center' };
 const SHOW_CERT_ID   = true;
-const CERTID_CONFIG = { xPercent: 20, yPercent: 90, fontSize: 11, font: 'helvetica', style: 'normal', color: [60, 60, 60], align: 'center' };
+const CERTID_CONFIG = { xPercent: 90, yPercent: 30, fontSize: 11, font: 'helvetica', style: 'normal', color: [60, 60, 60], align: 'center' };
 
 /* ---------------- unique participant ID ---------------- */
 function generateUniqueId(){
